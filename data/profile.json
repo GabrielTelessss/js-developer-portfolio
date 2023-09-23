@@ -47,13 +47,8 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "PokeDex API",
+      "url": "https://github.com/GabrielTelessss/PokeDex_API/tree/a9a9a7b436e5e53256cb659c467837c6f8e6d247",
       "github": true
     }
   ],
