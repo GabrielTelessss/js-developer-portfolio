@@ -50,7 +50,10 @@
       "name": "PokeDex API",
       "url": "https://gabrieltelessss.github.io/PokeDex.API/",
       "certificate": "https://www.dio.me/users/gabrielghv1234",
-      "github": true
+      "github": true,
+      "name": "One Piece",
+      "url": "https://gabrieltelessss.github.io/Projeto-One-Piece/",
+      "github": false
     }
   ],
   "professionalExperience": [
